@@ -1,0 +1,60 @@
+.indianflag{
+    height: 10px;
+}
+.date{
+    text-align: center;
+}
+.just{
+    text-align: center;
+    background-color: lightgreen;
+    height: 50px;
+    padding-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.sd{
+    color: red;
+   text-align: center;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.image-teja{
+    text-align: center;
+}
+.pic{
+    height: 400px;
+}
+.end-point{
+    text-align: center;
+    font-family: monospace;
+}
+.the-end{
+    color: lightblue;
+    
+}
+.the-end-2{
+    color: rgb(172, 220, 27);
+    
+}
+.a1{
+    height: 40px;
+    padding-right: 20px;
+}
+.a2{
+    height: 40px;
+}
+.a3{
+    height: 40px;
+    padding-left: 20px;
+}
+.social-media{
+    text-align: center;
+}
+.pop{
+    font-family: monospace;
+}
+.indian-name{
+   font-family: monospace;
+}
+
